@@ -14,6 +14,6 @@
 - provide the login details from one of the users you seeded
 - by default all users use "EUR" as their base currency, this is due to fixer.io Free API KEY limitation 
 
-##Running the Tests
+## Running the Tests
 
 -  vendor/bin/phpunit 
